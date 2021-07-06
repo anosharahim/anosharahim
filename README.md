@@ -1,4 +1,4 @@
-# Hi 
+# Hi, welcome to my Github. 
 My name is Anosha. I am an aspiring engineer based in San Francisco. 
 
 <h3 align="left">Connect with me:</h3>
