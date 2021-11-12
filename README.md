@@ -1,6 +1,6 @@
 # Hi, nice to meet you. 
 
-My name is Anosha. I am a computer science student in my last year of undergrad at Minerva University in San Francisco. As an AI and machine learning major and an aspiring engineer, I aim to balance a strong theoretical foundation of the field in my courses, alongside honing my practical skills from projects, some of which are showcased below. 
+My name is Anosha. I am a computer science student in my last year of undergrad at Minerva University in San Francisco. As an AI and machine learning major and an aspiring engineer, I aim to balance my theoretical knowledge of the field with practical experience, some of which is showcased in the projects below. 
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">
