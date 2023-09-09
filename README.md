@@ -1,4 +1,5 @@
-- Hi there,
+👋 Hi there, 
+
 - 🎧 Building: An interactive audio-reader that lets you talk to blogs as you are listening to them
 - 🌱 Learning: How prompt-tuning compares with fine-tuning
 - 🌉 Wondering:
